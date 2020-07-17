@@ -8,6 +8,8 @@ int main(){
 	double c=3;
 	cout<<"c的值= "<<c<<endl;
 	cout<<"分支bug"<<endl;
+	cout<<"nothing"<<endl;
+	cout<<"输出了a,b,c的值"<<endl;
 	return 0;
 
 }
