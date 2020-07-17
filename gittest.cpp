@@ -7,6 +7,7 @@ int main(){
 	cout<<"b的值= "<<b<<endl;
 	double c=3;
 	cout<<"c的值= "<<c<<endl;
+	cout<<"已经输出了a,b,c的值"<<endl;
 	return 0;
 
 }
